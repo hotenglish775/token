@@ -120,8 +120,8 @@ const Footer = () => {
             <div class="col-xl-6 col-lg-6 col-md-6">
               <div class="copyright">
                 <p>
-                  Copyright © 2023
-                  <a href="#">@theblockchaincoders</a> All Rights Reserved
+                  Copyright © 2025
+                  <a href="#"></a> All Rights Reserved
                 </p>
               </div>
             </div>
