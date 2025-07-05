@@ -6,7 +6,7 @@ const tokens = (_number) => {
 
 async function main() {
   //ERC20Generator
-  const _tokenName = "DAULAT HUSSAIN";
+  const _tokenName = "Gary";
   const _tokenSymbol = "DH";
   const _initialSupply = tokens(1000000000);
   const ERC20Generator = await hre.ethers.getContractFactory("ERC20Generator");
