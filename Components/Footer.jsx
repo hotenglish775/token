@@ -121,7 +121,7 @@ const Footer = () => {
               <div class="copyright">
                 <p>
                   Copyright © 2025
-                  <a href="#"></a> All Rights Reserved
+                  <a href="#">marketplace.revolution-web3-design.co.uk</a> All Rights Reserved
                 </p>
               </div>
             </div>
